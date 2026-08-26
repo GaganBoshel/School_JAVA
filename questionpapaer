@@ -1,0 +1,17 @@
+1.write a program for JAVA to demonstrate the working of a banking system where
+we deposit and withdraw amount from our account. Creating an Account class
+which has deposit () and withdraw () methods. Take amount from the user.
+
+2.write a Java program to input the salary of 8 employees.
+Calculate the bonus according to the following rules:
+Salary                  Bonus
+Less than Rs.20,000     20%
+Rs.20,000-39999         15%
+Rs.40000-59999          10%
+Rs.60,000 and above     5%
+Display the salary;bonus amount, and total salary after adding the bonus.
+
+   Write a java program in java to demonstrate the working of a banking system where we deposit and withdraw amount from our account.
+Creating an Account class which has deposit () and withdraw () methods. Take amount from the user.
+
+
