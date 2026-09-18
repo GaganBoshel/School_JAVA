@@ -30,8 +30,14 @@ public class Exercise1 {
 	public static void main(String[] args) {
 		Book book1 = new Book(1, "The Alchemist", "Paulo Coelho");
 		Book book2 = new Book(2, "To Kill a Mockingbird", "Harper Lee");
-
 		book1.displayInformation();
 		book2.displayInformation();
 	}
 }
+// thic=s code prints the following output:
+// Book ID: 1
+// Title: The Alchemist
+// Author: Paulo Coelho
+// Book ID: 2
+// Title: To Kill a Mockingbird
+// Author: Harper Lee

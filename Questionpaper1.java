@@ -42,5 +42,7 @@ public class Questionpaper1 {
         double withdrawAmount = input.nextDouble();
         account.withdraw(withdrawAmount);
         account.displayBalance();
+
+        input.close();
     }
 }

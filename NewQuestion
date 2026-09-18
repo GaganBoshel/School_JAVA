@@ -1,0 +1,49 @@
+Question 1 — Student
+
+Create a Student class with:
+
+id
+name
+age
+
+Create the following overloaded constructors:
+
+Constructor with no arguments
+Constructor with id and name
+Constructor with id, name, and age
+
+Create three Student objects using the three different constructors and display their information.
+
+Question 2 — Book
+
+Create a Book class with:
+
+bookId
+title
+author
+price
+
+Create overloaded constructors:
+
+Constructor with only bookId
+Constructor with bookId and title
+Constructor with bookId, title, author, and price
+
+Create objects using each constructor and display their information.
+
+Question 3. Create a Book class with:
+
+bookId
+title
+author
+price
+
+Create:
+
+A parameterized constructor
+A copy constructor
+
+Create one book object and create another book object by copying the first object.
+
+Display both books.
+
